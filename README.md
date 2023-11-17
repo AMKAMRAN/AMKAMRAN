@@ -1,11 +1,11 @@
-### Hi there 👋
-
+### Hello
+My name is Muhammad Kamran master student at Hubei University, Wuhan. I am currently working on the preparation and phtoluminescence study data of phosphors by involving Machine Learning techiniques. Through Machine Learning we can detect their luminescence properties and predict the phosphor designs. Machine Learning and AI play vital role in big data collection. 
 <!--
 **AMKAMRAN/AMKAMRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on preparation of phosphors and their photoluminescence study data by using Machine Learning.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
